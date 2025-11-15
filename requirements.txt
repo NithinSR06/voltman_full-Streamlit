@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pandas
+gtts
+SpeechRecognition
+requests
+graphviz
+pydub
+python-dotenv
